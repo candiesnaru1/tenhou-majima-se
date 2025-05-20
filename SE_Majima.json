@@ -1,11 +1,19 @@
 {
   "ver":1.0,
   "se":{
+    "1":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_start.mp3"},
+    "3":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_clock.mp3"},
+    "6":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_da.mp3"},
+    "8":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_naki.mp3"},
+    "10":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_agari.mp3"},
+    "11":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_yaku.mp3"},
     "25":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-majima-se/main/Majima_Pon.mp3"},
     "27":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-majima-se/main/Majima_Kan.mp3"},
     "29":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-majima-se/main/Majima_Chi.mp3"},
     "31":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-majima-se/main/Majima_Riichi.mp3"},
     "33":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-majima-se/main/Majima_Ron.mp3"},
     "35":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-majima-se/main/Majima_Tsumo.mp3"},
+    "40":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_start.mp3"},
+    "41":{"url":"https://raw.githubusercontent.com/candiesnaru1/tenhou-se/main/se_yakuman.mp3"}
   }
 }
